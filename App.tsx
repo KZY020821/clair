@@ -93,7 +93,7 @@ const App: React.FC = () => {
         <div className="max-w-4xl mx-auto px-6 h-14 flex items-center">
           <div className="flex items-center text-[#37352f] font-semibold tracking-tight text-sm hover:bg-[#efefef] px-2 py-1 rounded transition-colors cursor-default">
             <span className="w-5 h-5 mr-2 bg-black text-white flex items-center justify-center rounded text-xs">C</span>
-            CareerPath AI
+            Clair
           </div>
         </div>
       </nav>
